@@ -2,7 +2,7 @@
 
 ## Run the app
 
-Update `MptService` accordingly (the issuer and holder seed for example, the maximum amount to mint...).
+Update `MptService` in the `src` directory accordingly (the issuer and holder seed for example, the maximum amount to mint...).
 
 Run:
 
